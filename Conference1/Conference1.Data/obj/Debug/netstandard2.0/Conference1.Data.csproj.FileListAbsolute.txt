@@ -1,0 +1,12 @@
+C:\Users\constantin\Desktop\Csharp\Conference1\Conference1.Data\bin\Debug\netstandard2.0\Conference1.Data.deps.json
+C:\Users\constantin\Desktop\Csharp\Conference1\Conference1.Data\bin\Debug\netstandard2.0\Conference1.Data.dll
+C:\Users\constantin\Desktop\Csharp\Conference1\Conference1.Data\obj\Debug\netstandard2.0\Conference1.Data.csprojAssemblyReference.cache
+C:\Users\constantin\Desktop\Csharp\Conference1\Conference1.Data\obj\Debug\netstandard2.0\Conference1.Data.csproj.CoreCompileInputs.cache
+C:\Users\constantin\Desktop\Csharp\Conference1\Conference1.Data\obj\Debug\netstandard2.0\Conference1.Data.AssemblyInfoInputs.cache
+C:\Users\constantin\Desktop\Csharp\Conference1\Conference1.Data\obj\Debug\netstandard2.0\Conference1.Data.AssemblyInfo.cs
+C:\Users\constantin\Desktop\Csharp\Conference1\Conference1.Data\bin\Debug\netstandard2.0\Conference1.Data.pdb
+C:\Users\constantin\Desktop\Csharp\Conference1\Conference1.Data\bin\Debug\netstandard2.0\Conference1.Domain.dll
+C:\Users\constantin\Desktop\Csharp\Conference1\Conference1.Data\bin\Debug\netstandard2.0\Conference1.Domain.pdb
+C:\Users\constantin\Desktop\Csharp\Conference1\Conference1.Data\obj\Debug\netstandard2.0\Conference1.Data.csproj.CopyComplete
+C:\Users\constantin\Desktop\Csharp\Conference1\Conference1.Data\obj\Debug\netstandard2.0\Conference1.Data.dll
+C:\Users\constantin\Desktop\Csharp\Conference1\Conference1.Data\obj\Debug\netstandard2.0\Conference1.Data.pdb

@@ -1,0 +1,9 @@
+C:\Users\constantin\Desktop\Csharp\Conference1\Conference1.Domain\bin\Debug\netstandard2.0\Conference1.Domain.deps.json
+C:\Users\constantin\Desktop\Csharp\Conference1\Conference1.Domain\bin\Debug\netstandard2.0\Conference1.Domain.dll
+C:\Users\constantin\Desktop\Csharp\Conference1\Conference1.Domain\obj\Debug\netstandard2.0\Conference1.Domain.csprojAssemblyReference.cache
+C:\Users\constantin\Desktop\Csharp\Conference1\Conference1.Domain\obj\Debug\netstandard2.0\Conference1.Domain.csproj.CoreCompileInputs.cache
+C:\Users\constantin\Desktop\Csharp\Conference1\Conference1.Domain\obj\Debug\netstandard2.0\Conference1.Domain.AssemblyInfoInputs.cache
+C:\Users\constantin\Desktop\Csharp\Conference1\Conference1.Domain\obj\Debug\netstandard2.0\Conference1.Domain.AssemblyInfo.cs
+C:\Users\constantin\Desktop\Csharp\Conference1\Conference1.Domain\bin\Debug\netstandard2.0\Conference1.Domain.pdb
+C:\Users\constantin\Desktop\Csharp\Conference1\Conference1.Domain\obj\Debug\netstandard2.0\Conference1.Domain.dll
+C:\Users\constantin\Desktop\Csharp\Conference1\Conference1.Domain\obj\Debug\netstandard2.0\Conference1.Domain.pdb

@@ -1,0 +1,274 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1\\Conference1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1.Data\\Conference1.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1.Data\\Conference1.Data.csproj",
+        "projectName": "Conference1.Data",
+        "projectPath": "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1.Data\\Conference1.Data.csproj",
+        "packagesPath": "C:\\Users\\constantin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\constantin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1.Domain\\Conference1.Domain.csproj": {
+                "projectPath": "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1.Domain\\Conference1.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1.Domain\\Conference1.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1.Domain\\Conference1.Domain.csproj",
+        "projectName": "Conference1.Domain",
+        "projectPath": "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1.Domain\\Conference1.Domain.csproj",
+        "packagesPath": "C:\\Users\\constantin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\constantin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1.Service\\Conference1.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1.Service\\Conference1.Service.csproj",
+        "projectName": "Conference1.Service",
+        "projectPath": "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1.Service\\Conference1.Service.csproj",
+        "packagesPath": "C:\\Users\\constantin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\constantin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1.Data\\Conference1.Data.csproj": {
+                "projectPath": "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1.Data\\Conference1.Data.csproj"
+              },
+              "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1.Domain\\Conference1.Domain.csproj": {
+                "projectPath": "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1.Domain\\Conference1.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1\\Conference1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1\\Conference1.csproj",
+        "projectName": "Conference1",
+        "projectPath": "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1\\Conference1.csproj",
+        "packagesPath": "C:\\Users\\constantin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\constantin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1.Data\\Conference1.Data.csproj": {
+                "projectPath": "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1.Data\\Conference1.Data.csproj"
+              },
+              "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1.Domain\\Conference1.Domain.csproj": {
+                "projectPath": "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1.Domain\\Conference1.Domain.csproj"
+              },
+              "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1.Service\\Conference1.Service.csproj": {
+                "projectPath": "C:\\Users\\constantin\\Desktop\\Csharp\\Conference1\\Conference1.Service\\Conference1.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
